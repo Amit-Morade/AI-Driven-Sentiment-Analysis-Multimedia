@@ -1,0 +1,3 @@
+[submodule "multimedia-sentiment-analyzer"]
+	path = multimedia-sentiment-analyzer
+	url = https://github.com/RohitShelke10/multimedia-sentiment-analyzer.git
